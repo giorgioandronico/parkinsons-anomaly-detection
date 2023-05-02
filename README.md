@@ -1,0 +1,2 @@
+# parkinsons-anomaly-detection
+Next-value prediction and anomaly detection were performed on a **time-series** real world dataset (provided by Healthware Group) tracking the movements of sensors attached to patients with Parkinson's. The objective was to predict when symptoms would begin to reoccur and determine the optimal time to administer medicine. The dataset required extensive preprocessing, including window splitting. Split in two tasks.
